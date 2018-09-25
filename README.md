@@ -4,7 +4,7 @@ Neutrogena LED mask Arduino MOD
 ### LCD PIN List 
 
 REF:[GDC02693](http://www.e-paper-display.cn/downloadRepository/7cf0ef04-cbe3-46a2-a5f3-99384003f70b.pdf)
-
+# <img src="src/LCDMapping.png" alt="LCDMapping" /> 
 |PIN |  1|  2|  3|  4|   5|   6|   7|   8|
 |:---|:--|:--|:--|:--|:---|:---|:---|:---|
 |COM1| 1D| 1E| 1F| 1A|    |    |    |COM1|
